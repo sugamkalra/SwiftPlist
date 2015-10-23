@@ -15,6 +15,7 @@
 		15641AAE1BDA0C550015E732 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 15641AAC1BDA0C550015E732 /* LaunchScreen.storyboard */; };
 		15641AB91BDA0C550015E732 /* SwiftyPlistTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15641AB81BDA0C550015E732 /* SwiftyPlistTests.swift */; };
 		15641AC41BDA0C550015E732 /* SwiftyPlistUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15641AC31BDA0C550015E732 /* SwiftyPlistUITests.swift */; };
+		15641AD21BDA0D640015E732 /* data.plist in Resources */ = {isa = PBXBuildFile; fileRef = 15641AD11BDA0D640015E732 /* data.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		15641ABF1BDA0C550015E732 /* SwiftyPlistUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftyPlistUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		15641AC31BDA0C550015E732 /* SwiftyPlistUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftyPlistUITests.swift; sourceTree = "<group>"; };
 		15641AC51BDA0C550015E732 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		15641AD11BDA0D640015E732 /* data.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = data.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				15641AAA1BDA0C540015E732 /* Assets.xcassets */,
 				15641AAC1BDA0C550015E732 /* LaunchScreen.storyboard */,
 				15641AAF1BDA0C550015E732 /* Info.plist */,
+				15641AD11BDA0D640015E732 /* data.plist */,
 				15641AA71BDA0C540015E732 /* SwiftyPlist.xcdatamodeld */,
 			);
 			path = SwiftyPlist;
@@ -234,6 +237,7 @@
 			files = (
 				15641AAE1BDA0C550015E732 /* LaunchScreen.storyboard in Resources */,
 				15641AAB1BDA0C540015E732 /* Assets.xcassets in Resources */,
+				15641AD21BDA0D640015E732 /* data.plist in Resources */,
 				15641AA61BDA0C540015E732 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
